@@ -1,0 +1,432 @@
+[
+  {
+    "source": "hero-1920.png",
+    "width": 1920,
+    "format": "webp",
+    "originalBytes": 3163346,
+    "bytes": 121372
+  },
+  {
+    "source": "hero-1920.png",
+    "width": 1920,
+    "format": "avif",
+    "originalBytes": 3163346,
+    "bytes": 71526
+  },
+  {
+    "source": "hero-1920.png",
+    "width": 3840,
+    "format": "webp",
+    "originalBytes": 3163346,
+    "bytes": 276924
+  },
+  {
+    "source": "hero-1920.png",
+    "width": 3840,
+    "format": "avif",
+    "originalBytes": 3163346,
+    "bytes": 196276
+  },
+  {
+    "source": "vector2.png",
+    "width": 1000,
+    "format": "webp",
+    "originalBytes": 2763394,
+    "bytes": 82278
+  },
+  {
+    "source": "vector2.png",
+    "width": 1000,
+    "format": "avif",
+    "originalBytes": 2763394,
+    "bytes": 48796
+  },
+  {
+    "source": "vector2.png",
+    "width": 2000,
+    "format": "webp",
+    "originalBytes": 2763394,
+    "bytes": 220948
+  },
+  {
+    "source": "vector2.png",
+    "width": 2000,
+    "format": "avif",
+    "originalBytes": 2763394,
+    "bytes": 131224
+  },
+  {
+    "source": "tablet768-vector1.png",
+    "width": 768,
+    "format": "webp",
+    "originalBytes": 1864445,
+    "bytes": 50574
+  },
+  {
+    "source": "tablet768-vector1.png",
+    "width": 768,
+    "format": "avif",
+    "originalBytes": 1864445,
+    "bytes": 30171
+  },
+  {
+    "source": "tablet768-vector1.png",
+    "width": 1536,
+    "format": "webp",
+    "originalBytes": 1864445,
+    "bytes": 119566
+  },
+  {
+    "source": "tablet768-vector1.png",
+    "width": 1536,
+    "format": "avif",
+    "originalBytes": 1864445,
+    "bytes": 74471
+  },
+  {
+    "source": "mobile480-vector1.png",
+    "width": 480,
+    "format": "webp",
+    "originalBytes": 1297364,
+    "bytes": 37508
+  },
+  {
+    "source": "mobile480-vector1.png",
+    "width": 480,
+    "format": "avif",
+    "originalBytes": 1297364,
+    "bytes": 23326
+  },
+  {
+    "source": "mobile480-vector1.png",
+    "width": 960,
+    "format": "webp",
+    "originalBytes": 1297364,
+    "bytes": 101904
+  },
+  {
+    "source": "mobile480-vector1.png",
+    "width": 960,
+    "format": "avif",
+    "originalBytes": 1297364,
+    "bytes": 63722
+  },
+  {
+    "source": "mobile360-vector1.png",
+    "width": 360,
+    "format": "webp",
+    "originalBytes": 814286,
+    "bytes": 20632
+  },
+  {
+    "source": "mobile360-vector1.png",
+    "width": 360,
+    "format": "avif",
+    "originalBytes": 814286,
+    "bytes": 13531
+  },
+  {
+    "source": "mobile360-vector1.png",
+    "width": 720,
+    "format": "webp",
+    "originalBytes": 814286,
+    "bytes": 53810
+  },
+  {
+    "source": "mobile360-vector1.png",
+    "width": 720,
+    "format": "avif",
+    "originalBytes": 814286,
+    "bytes": 35694
+  },
+  {
+    "source": "photo.png",
+    "width": 426,
+    "format": "webp",
+    "originalBytes": 756607,
+    "bytes": 112664
+  },
+  {
+    "source": "photo.png",
+    "width": 426,
+    "format": "avif",
+    "originalBytes": 756607,
+    "bytes": 57542
+  },
+  {
+    "source": "photo.png",
+    "width": 852,
+    "format": "webp",
+    "originalBytes": 756607,
+    "bytes": 232974
+  },
+  {
+    "source": "photo.png",
+    "width": 852,
+    "format": "avif",
+    "originalBytes": 756607,
+    "bytes": 155632
+  },
+  {
+    "source": "photo1.png",
+    "width": 250,
+    "format": "webp",
+    "originalBytes": 113485,
+    "bytes": 6984
+  },
+  {
+    "source": "photo1.png",
+    "width": 250,
+    "format": "avif",
+    "originalBytes": 113485,
+    "bytes": 4781
+  },
+  {
+    "source": "photo1.png",
+    "width": 500,
+    "format": "webp",
+    "originalBytes": 113485,
+    "bytes": 17914
+  },
+  {
+    "source": "photo1.png",
+    "width": 500,
+    "format": "avif",
+    "originalBytes": 113485,
+    "bytes": 10335
+  },
+  {
+    "source": "photo2.png",
+    "width": 250,
+    "format": "webp",
+    "originalBytes": 119617,
+    "bytes": 10052
+  },
+  {
+    "source": "photo2.png",
+    "width": 250,
+    "format": "avif",
+    "originalBytes": 119617,
+    "bytes": 6167
+  },
+  {
+    "source": "photo2.png",
+    "width": 500,
+    "format": "webp",
+    "originalBytes": 119617,
+    "bytes": 24526
+  },
+  {
+    "source": "photo2.png",
+    "width": 500,
+    "format": "avif",
+    "originalBytes": 119617,
+    "bytes": 13358
+  },
+  {
+    "source": "photo3.png",
+    "width": 250,
+    "format": "webp",
+    "originalBytes": 126857,
+    "bytes": 11592
+  },
+  {
+    "source": "photo3.png",
+    "width": 250,
+    "format": "avif",
+    "originalBytes": 126857,
+    "bytes": 7026
+  },
+  {
+    "source": "photo3.png",
+    "width": 500,
+    "format": "webp",
+    "originalBytes": 126857,
+    "bytes": 27990
+  },
+  {
+    "source": "photo3.png",
+    "width": 500,
+    "format": "avif",
+    "originalBytes": 126857,
+    "bytes": 16645
+  },
+  {
+    "source": "photo4.png",
+    "width": 250,
+    "format": "webp",
+    "originalBytes": 183079,
+    "bytes": 14790
+  },
+  {
+    "source": "photo4.png",
+    "width": 250,
+    "format": "avif",
+    "originalBytes": 183079,
+    "bytes": 8978
+  },
+  {
+    "source": "photo4.png",
+    "width": 500,
+    "format": "webp",
+    "originalBytes": 183079,
+    "bytes": 37064
+  },
+  {
+    "source": "photo4.png",
+    "width": 500,
+    "format": "avif",
+    "originalBytes": 183079,
+    "bytes": 22022
+  },
+  {
+    "source": "photo5.png",
+    "width": 250,
+    "format": "webp",
+    "originalBytes": 108352,
+    "bytes": 9688
+  },
+  {
+    "source": "photo5.png",
+    "width": 250,
+    "format": "avif",
+    "originalBytes": 108352,
+    "bytes": 6088
+  },
+  {
+    "source": "photo5.png",
+    "width": 500,
+    "format": "webp",
+    "originalBytes": 108352,
+    "bytes": 23714
+  },
+  {
+    "source": "photo5.png",
+    "width": 500,
+    "format": "avif",
+    "originalBytes": 108352,
+    "bytes": 14204
+  },
+  {
+    "source": "photo6.png",
+    "width": 250,
+    "format": "webp",
+    "originalBytes": 115024,
+    "bytes": 10348
+  },
+  {
+    "source": "photo6.png",
+    "width": 250,
+    "format": "avif",
+    "originalBytes": 115024,
+    "bytes": 6282
+  },
+  {
+    "source": "photo6.png",
+    "width": 500,
+    "format": "webp",
+    "originalBytes": 115024,
+    "bytes": 24710
+  },
+  {
+    "source": "photo6.png",
+    "width": 500,
+    "format": "avif",
+    "originalBytes": 115024,
+    "bytes": 14399
+  },
+  {
+    "source": "photo7.png",
+    "width": 250,
+    "format": "webp",
+    "originalBytes": 141553,
+    "bytes": 13048
+  },
+  {
+    "source": "photo7.png",
+    "width": 250,
+    "format": "avif",
+    "originalBytes": 141553,
+    "bytes": 7648
+  },
+  {
+    "source": "photo7.png",
+    "width": 500,
+    "format": "webp",
+    "originalBytes": 141553,
+    "bytes": 30196
+  },
+  {
+    "source": "photo7.png",
+    "width": 500,
+    "format": "avif",
+    "originalBytes": 141553,
+    "bytes": 17894
+  },
+  {
+    "source": "photo8.png",
+    "width": 250,
+    "format": "webp",
+    "originalBytes": 178799,
+    "bytes": 16194
+  },
+  {
+    "source": "photo8.png",
+    "width": 250,
+    "format": "avif",
+    "originalBytes": 178799,
+    "bytes": 9430
+  },
+  {
+    "source": "photo8.png",
+    "width": 500,
+    "format": "webp",
+    "originalBytes": 178799,
+    "bytes": 40358
+  },
+  {
+    "source": "photo8.png",
+    "width": 500,
+    "format": "avif",
+    "originalBytes": 178799,
+    "bytes": 23861
+  },
+  {
+    "source": "photo9.png",
+    "width": 250,
+    "format": "webp",
+    "originalBytes": 163998,
+    "bytes": 14676
+  },
+  {
+    "source": "photo9.png",
+    "width": 250,
+    "format": "avif",
+    "originalBytes": 163998,
+    "bytes": 8393
+  },
+  {
+    "source": "photo9.png",
+    "width": 500,
+    "format": "webp",
+    "originalBytes": 163998,
+    "bytes": 35718
+  },
+  {
+    "source": "photo9.png",
+    "width": 500,
+    "format": "avif",
+    "originalBytes": 163998,
+    "bytes": 20866
+  },
+  {
+    "source": "logo.svg",
+    "originalBytes": 244299,
+    "bytes": 102700
+  },
+  {
+    "source": "logo1.svg",
+    "originalBytes": 245000,
+    "bytes": 98344
+  }
+]

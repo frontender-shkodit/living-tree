@@ -1,0 +1,1409 @@
+{
+  "results": [
+    {
+      "width": 1920,
+      "scrollWidth": 1905,
+      "brokenImages": [],
+      "cards": 9,
+      "clippedText": [],
+      "columns": 4,
+      "background": "url(\"http://127.0.0.1:5173/assets/figma/catalog-1920.svg\")",
+      "sections": [
+        {
+          "name": "hero",
+          "y": 70,
+          "height": 600
+        },
+        {
+          "name": "about container",
+          "y": 670,
+          "height": 456.390625
+        },
+        {
+          "name": "catalog",
+          "y": 1126.390625,
+          "height": 1459.390625
+        },
+        {
+          "name": "care container",
+          "y": 2585.78125,
+          "height": 357.390625
+        },
+        {
+          "name": "reviews",
+          "y": 2943.171875,
+          "height": 466.390625
+        },
+        {
+          "name": "order-delivery",
+          "y": 3409.5625,
+          "height": 899.78125
+        }
+      ],
+      "images": [
+        {
+          "file": "logo1.svg",
+          "width": 99.984375,
+          "height": 43.765625
+        },
+        {
+          "file": "hero-1920-1920.avif",
+          "width": 1905,
+          "height": 600
+        },
+        {
+          "file": "photo1-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo2-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo3-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo4-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo5-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo6-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo7-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo8-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo9-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo-426.avif",
+          "width": 426,
+          "height": 840
+        },
+        {
+          "file": "logo.svg",
+          "width": 149.96875,
+          "height": 65.546875
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1425,
+      "brokenImages": [],
+      "cards": 9,
+      "clippedText": [],
+      "columns": 4,
+      "background": "url(\"http://127.0.0.1:5173/assets/figma/catalog-1920.svg\")",
+      "sections": [
+        {
+          "name": "hero",
+          "y": 70,
+          "height": 600
+        },
+        {
+          "name": "about container",
+          "y": 670,
+          "height": 456.390625
+        },
+        {
+          "name": "catalog",
+          "y": 1126.390625,
+          "height": 1459.390625
+        },
+        {
+          "name": "care container",
+          "y": 2585.78125,
+          "height": 357.390625
+        },
+        {
+          "name": "reviews",
+          "y": 2943.171875,
+          "height": 466.390625
+        },
+        {
+          "name": "order-delivery",
+          "y": 3409.5625,
+          "height": 899.78125
+        }
+      ],
+      "images": [
+        {
+          "file": "logo1.svg",
+          "width": 99.984375,
+          "height": 43.765625
+        },
+        {
+          "file": "hero-1920-1920.avif",
+          "width": 1425,
+          "height": 600
+        },
+        {
+          "file": "photo1-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo2-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo3-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo4-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo5-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo6-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo7-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo8-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo9-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo-426.avif",
+          "width": 426,
+          "height": 840
+        },
+        {
+          "file": "logo.svg",
+          "width": 149.96875,
+          "height": 65.546875
+        }
+      ]
+    },
+    {
+      "width": 1439,
+      "scrollWidth": 1424,
+      "brokenImages": [],
+      "cards": 9,
+      "clippedText": [],
+      "columns": 4,
+      "background": "url(\"http://127.0.0.1:5173/assets/figma/vector.svg\")",
+      "sections": [
+        {
+          "name": "hero",
+          "y": 70,
+          "height": 600
+        },
+        {
+          "name": "about container",
+          "y": 670,
+          "height": 456.390625
+        },
+        {
+          "name": "catalog",
+          "y": 1126.390625,
+          "height": 1439.390625
+        },
+        {
+          "name": "care container",
+          "y": 2565.78125,
+          "height": 357.390625
+        },
+        {
+          "name": "reviews",
+          "y": 2923.171875,
+          "height": 466.390625
+        },
+        {
+          "name": "order-delivery",
+          "y": 3389.5625,
+          "height": 899.78125
+        }
+      ],
+      "images": [
+        {
+          "file": "logo1.svg",
+          "width": 99.984375,
+          "height": 43.765625
+        },
+        {
+          "file": "vector2-2000.avif",
+          "width": 1424,
+          "height": 600
+        },
+        {
+          "file": "photo1-500.avif",
+          "width": 257.5,
+          "height": 247
+        },
+        {
+          "file": "photo2-500.avif",
+          "width": 257.5,
+          "height": 247
+        },
+        {
+          "file": "photo3-500.avif",
+          "width": 257.5,
+          "height": 247
+        },
+        {
+          "file": "photo4-500.avif",
+          "width": 257.5,
+          "height": 247
+        },
+        {
+          "file": "photo5-500.avif",
+          "width": 257.5,
+          "height": 247
+        },
+        {
+          "file": "photo6-500.avif",
+          "width": 257.5,
+          "height": 247
+        },
+        {
+          "file": "photo7-500.avif",
+          "width": 257.5,
+          "height": 247
+        },
+        {
+          "file": "photo8-500.avif",
+          "width": 257.5,
+          "height": 247
+        },
+        {
+          "file": "photo9-500.avif",
+          "width": 257.5,
+          "height": 247
+        },
+        {
+          "file": "photo-426.avif",
+          "width": 426,
+          "height": 840
+        },
+        {
+          "file": "logo.svg",
+          "width": 149.96875,
+          "height": 65.546875
+        }
+      ]
+    },
+    {
+      "width": 1200,
+      "scrollWidth": 1185,
+      "brokenImages": [],
+      "cards": 9,
+      "clippedText": [],
+      "columns": 4,
+      "background": "url(\"http://127.0.0.1:5173/assets/figma/vector.svg\")",
+      "sections": [
+        {
+          "name": "hero",
+          "y": 70,
+          "height": 600
+        },
+        {
+          "name": "about container",
+          "y": 670,
+          "height": 456.390625
+        },
+        {
+          "name": "catalog",
+          "y": 1126.390625,
+          "height": 1439.390625
+        },
+        {
+          "name": "care container",
+          "y": 2565.78125,
+          "height": 357.390625
+        },
+        {
+          "name": "reviews",
+          "y": 2923.171875,
+          "height": 466.390625
+        },
+        {
+          "name": "order-delivery",
+          "y": 3389.5625,
+          "height": 899.78125
+        }
+      ],
+      "images": [
+        {
+          "file": "logo1.svg",
+          "width": 99.984375,
+          "height": 43.765625
+        },
+        {
+          "file": "vector2-2000.avif",
+          "width": 1185,
+          "height": 600
+        },
+        {
+          "file": "photo1-500.avif",
+          "width": 257.5,
+          "height": 247
+        },
+        {
+          "file": "photo2-500.avif",
+          "width": 257.5,
+          "height": 247
+        },
+        {
+          "file": "photo3-500.avif",
+          "width": 257.5,
+          "height": 247
+        },
+        {
+          "file": "photo4-500.avif",
+          "width": 257.5,
+          "height": 247
+        },
+        {
+          "file": "photo5-500.avif",
+          "width": 257.5,
+          "height": 247
+        },
+        {
+          "file": "photo6-500.avif",
+          "width": 257.5,
+          "height": 247
+        },
+        {
+          "file": "photo7-500.avif",
+          "width": 257.5,
+          "height": 247
+        },
+        {
+          "file": "photo8-500.avif",
+          "width": 257.5,
+          "height": 247
+        },
+        {
+          "file": "photo9-500.avif",
+          "width": 257.5,
+          "height": 247
+        },
+        {
+          "file": "photo-426.avif",
+          "width": 426,
+          "height": 840
+        },
+        {
+          "file": "logo.svg",
+          "width": 149.96875,
+          "height": 65.546875
+        }
+      ]
+    },
+    {
+      "width": 1000,
+      "scrollWidth": 985,
+      "brokenImages": [],
+      "cards": 9,
+      "clippedText": [],
+      "columns": 4,
+      "background": "url(\"http://127.0.0.1:5173/assets/figma/vector.svg\")",
+      "sections": [
+        {
+          "name": "hero",
+          "y": 70,
+          "height": 600
+        },
+        {
+          "name": "about container",
+          "y": 670,
+          "height": 456.390625
+        },
+        {
+          "name": "catalog",
+          "y": 1126.390625,
+          "height": 1439.390625
+        },
+        {
+          "name": "care container",
+          "y": 2565.78125,
+          "height": 357.390625
+        },
+        {
+          "name": "reviews",
+          "y": 2923.171875,
+          "height": 466.390625
+        },
+        {
+          "name": "order-delivery",
+          "y": 3389.5625,
+          "height": 899.78125
+        }
+      ],
+      "images": [
+        {
+          "file": "logo1.svg",
+          "width": 99.984375,
+          "height": 43.765625
+        },
+        {
+          "file": "vector2-1000.avif",
+          "width": 985,
+          "height": 600
+        },
+        {
+          "file": "photo1-250.avif",
+          "width": 221.25,
+          "height": 247
+        },
+        {
+          "file": "photo2-250.avif",
+          "width": 221.25,
+          "height": 247
+        },
+        {
+          "file": "photo3-250.avif",
+          "width": 221.25,
+          "height": 247
+        },
+        {
+          "file": "photo4-250.avif",
+          "width": 221.25,
+          "height": 247
+        },
+        {
+          "file": "photo5-250.avif",
+          "width": 221.25,
+          "height": 247
+        },
+        {
+          "file": "photo6-250.avif",
+          "width": 221.25,
+          "height": 247
+        },
+        {
+          "file": "photo7-250.avif",
+          "width": 221.25,
+          "height": 247
+        },
+        {
+          "file": "photo8-250.avif",
+          "width": 221.25,
+          "height": 247
+        },
+        {
+          "file": "photo9-250.avif",
+          "width": 221.25,
+          "height": 247
+        },
+        {
+          "file": "photo-426.avif",
+          "width": 426,
+          "height": 840
+        },
+        {
+          "file": "logo.svg",
+          "width": 149.96875,
+          "height": 65.546875
+        }
+      ]
+    },
+    {
+      "width": 999,
+      "scrollWidth": 984,
+      "brokenImages": [],
+      "cards": 9,
+      "clippedText": [],
+      "columns": 3,
+      "background": "url(\"http://127.0.0.1:5173/assets/figma/catalog-848.svg\")",
+      "sections": [
+        {
+          "name": "hero",
+          "y": 70,
+          "height": 600
+        },
+        {
+          "name": "about container",
+          "y": 670,
+          "height": 796.390625
+        },
+        {
+          "name": "catalog",
+          "y": 1466.390625,
+          "height": 1545.390625
+        },
+        {
+          "name": "care container",
+          "y": 3011.78125,
+          "height": 357.390625
+        },
+        {
+          "name": "reviews",
+          "y": 3369.171875,
+          "height": 466.390625
+        },
+        {
+          "name": "order-delivery",
+          "y": 3835.5625,
+          "height": 899.78125
+        }
+      ],
+      "images": [
+        {
+          "file": "logo1.svg",
+          "width": 99.984375,
+          "height": 43.765625
+        },
+        {
+          "file": "tablet768-vector1-1536.avif",
+          "width": 984,
+          "height": 600
+        },
+        {
+          "file": "photo1-500.avif",
+          "width": 301.328125,
+          "height": 247
+        },
+        {
+          "file": "photo2-500.avif",
+          "width": 301.328125,
+          "height": 247
+        },
+        {
+          "file": "photo3-500.avif",
+          "width": 301.34375,
+          "height": 247
+        },
+        {
+          "file": "photo4-500.avif",
+          "width": 301.328125,
+          "height": 247
+        },
+        {
+          "file": "photo5-500.avif",
+          "width": 301.328125,
+          "height": 247
+        },
+        {
+          "file": "photo6-500.avif",
+          "width": 301.34375,
+          "height": 247
+        },
+        {
+          "file": "photo7-500.avif",
+          "width": 301.328125,
+          "height": 247
+        },
+        {
+          "file": "photo8-500.avif",
+          "width": 301.328125,
+          "height": 247
+        },
+        {
+          "file": "photo9-500.avif",
+          "width": 301.34375,
+          "height": 247
+        },
+        {
+          "file": "photo-426.avif",
+          "width": 426,
+          "height": 840
+        },
+        {
+          "file": "logo.svg",
+          "width": 149.96875,
+          "height": 65.546875
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "scrollWidth": 753,
+      "brokenImages": [],
+      "cards": 9,
+      "clippedText": [],
+      "columns": 3,
+      "background": "url(\"http://127.0.0.1:5173/assets/figma/catalog-848.svg\")",
+      "sections": [
+        {
+          "name": "hero",
+          "y": 70,
+          "height": 600
+        },
+        {
+          "name": "about container",
+          "y": 670,
+          "height": 796.390625
+        },
+        {
+          "name": "catalog",
+          "y": 1466.390625,
+          "height": 1569.390625
+        },
+        {
+          "name": "care container",
+          "y": 3035.78125,
+          "height": 357.390625
+        },
+        {
+          "name": "reviews",
+          "y": 3393.171875,
+          "height": 466.390625
+        },
+        {
+          "name": "order-delivery",
+          "y": 3859.5625,
+          "height": 899.78125
+        }
+      ],
+      "images": [
+        {
+          "file": "logo1.svg",
+          "width": 99.984375,
+          "height": 43.765625
+        },
+        {
+          "file": "tablet768-vector1-768.avif",
+          "width": 753,
+          "height": 600
+        },
+        {
+          "file": "photo1-500.avif",
+          "width": 224.328125,
+          "height": 247
+        },
+        {
+          "file": "photo2-500.avif",
+          "width": 224.328125,
+          "height": 247
+        },
+        {
+          "file": "photo3-500.avif",
+          "width": 224.328125,
+          "height": 247
+        },
+        {
+          "file": "photo4-500.avif",
+          "width": 224.328125,
+          "height": 247
+        },
+        {
+          "file": "photo5-500.avif",
+          "width": 224.328125,
+          "height": 247
+        },
+        {
+          "file": "photo6-500.avif",
+          "width": 224.328125,
+          "height": 247
+        },
+        {
+          "file": "photo7-500.avif",
+          "width": 224.328125,
+          "height": 247
+        },
+        {
+          "file": "photo8-500.avif",
+          "width": 224.328125,
+          "height": 247
+        },
+        {
+          "file": "photo9-500.avif",
+          "width": 224.328125,
+          "height": 247
+        },
+        {
+          "file": "photo-426.avif",
+          "width": 426,
+          "height": 840
+        },
+        {
+          "file": "logo.svg",
+          "width": 149.96875,
+          "height": 65.546875
+        }
+      ]
+    },
+    {
+      "width": 767,
+      "scrollWidth": 752,
+      "brokenImages": [],
+      "cards": 9,
+      "clippedText": [],
+      "columns": 2,
+      "background": "url(\"http://127.0.0.1:5173/assets/figma/catalog-847.svg\")",
+      "sections": [
+        {
+          "name": "hero",
+          "y": 70,
+          "height": 600
+        },
+        {
+          "name": "about container",
+          "y": 670,
+          "height": 1036.703125
+        },
+        {
+          "name": "catalog",
+          "y": 1706.703125,
+          "height": 2399.390625
+        },
+        {
+          "name": "care container",
+          "y": 4106.09375,
+          "height": 1006.390625
+        },
+        {
+          "name": "reviews",
+          "y": 5112.484375,
+          "height": 466.390625
+        },
+        {
+          "name": "order-delivery",
+          "y": 5578.875,
+          "height": 947.78125
+        }
+      ],
+      "images": [
+        {
+          "file": "logo1.svg",
+          "width": 99.984375,
+          "height": 43.765625
+        },
+        {
+          "file": "mobile480-vector1-960.avif",
+          "width": 752,
+          "height": 600
+        },
+        {
+          "file": "photo1-500.avif",
+          "width": 346,
+          "height": 247
+        },
+        {
+          "file": "photo2-500.avif",
+          "width": 346,
+          "height": 247
+        },
+        {
+          "file": "photo3-500.avif",
+          "width": 346,
+          "height": 247
+        },
+        {
+          "file": "photo4-500.avif",
+          "width": 346,
+          "height": 247
+        },
+        {
+          "file": "photo5-500.avif",
+          "width": 346,
+          "height": 247
+        },
+        {
+          "file": "photo6-500.avif",
+          "width": 346,
+          "height": 247
+        },
+        {
+          "file": "photo7-500.avif",
+          "width": 346,
+          "height": 247
+        },
+        {
+          "file": "photo8-500.avif",
+          "width": 346,
+          "height": 247
+        },
+        {
+          "file": "photo9-500.avif",
+          "width": 346,
+          "height": 247
+        },
+        {
+          "file": "photo-426.avif",
+          "width": 426,
+          "height": 840
+        },
+        {
+          "file": "logo.svg",
+          "width": 100.0291519165039,
+          "height": 43.7197265625
+        }
+      ]
+    },
+    {
+      "width": 600,
+      "scrollWidth": 585,
+      "brokenImages": [],
+      "cards": 9,
+      "clippedText": [],
+      "columns": 2,
+      "background": "url(\"http://127.0.0.1:5173/assets/figma/catalog-847.svg\")",
+      "sections": [
+        {
+          "name": "hero",
+          "y": 70,
+          "height": 600
+        },
+        {
+          "name": "about container",
+          "y": 670,
+          "height": 1036.703125
+        },
+        {
+          "name": "catalog",
+          "y": 1706.703125,
+          "height": 2423.390625
+        },
+        {
+          "name": "care container",
+          "y": 4130.09375,
+          "height": 1006.390625
+        },
+        {
+          "name": "reviews",
+          "y": 5136.484375,
+          "height": 466.390625
+        },
+        {
+          "name": "order-delivery",
+          "y": 5602.875,
+          "height": 947.78125
+        }
+      ],
+      "images": [
+        {
+          "file": "logo1.svg",
+          "width": 99.984375,
+          "height": 43.765625
+        },
+        {
+          "file": "mobile480-vector1-960.avif",
+          "width": 585,
+          "height": 600
+        },
+        {
+          "file": "photo1-500.avif",
+          "width": 262.5,
+          "height": 247
+        },
+        {
+          "file": "photo2-500.avif",
+          "width": 262.5,
+          "height": 247
+        },
+        {
+          "file": "photo3-500.avif",
+          "width": 262.5,
+          "height": 247
+        },
+        {
+          "file": "photo4-500.avif",
+          "width": 262.5,
+          "height": 247
+        },
+        {
+          "file": "photo5-500.avif",
+          "width": 262.5,
+          "height": 247
+        },
+        {
+          "file": "photo6-500.avif",
+          "width": 262.5,
+          "height": 247
+        },
+        {
+          "file": "photo7-500.avif",
+          "width": 262.5,
+          "height": 247
+        },
+        {
+          "file": "photo8-500.avif",
+          "width": 262.5,
+          "height": 247
+        },
+        {
+          "file": "photo9-500.avif",
+          "width": 262.5,
+          "height": 247
+        },
+        {
+          "file": "photo-426.avif",
+          "width": 426,
+          "height": 840
+        },
+        {
+          "file": "logo.svg",
+          "width": 100.0291519165039,
+          "height": 43.7197265625
+        }
+      ]
+    },
+    {
+      "width": 480,
+      "scrollWidth": 465,
+      "brokenImages": [],
+      "cards": 9,
+      "clippedText": [],
+      "columns": 2,
+      "background": "url(\"http://127.0.0.1:5173/assets/figma/catalog-847.svg\")",
+      "sections": [
+        {
+          "name": "hero",
+          "y": 70,
+          "height": 600
+        },
+        {
+          "name": "about container",
+          "y": 670,
+          "height": 1036.703125
+        },
+        {
+          "name": "catalog",
+          "y": 1706.703125,
+          "height": 2471.390625
+        },
+        {
+          "name": "care container",
+          "y": 4178.09375,
+          "height": 1006.390625
+        },
+        {
+          "name": "reviews",
+          "y": 5184.484375,
+          "height": 466.390625
+        },
+        {
+          "name": "order-delivery",
+          "y": 5650.875,
+          "height": 947.78125
+        }
+      ],
+      "images": [
+        {
+          "file": "logo1.svg",
+          "width": 99.984375,
+          "height": 43.765625
+        },
+        {
+          "file": "mobile480-vector1-480.avif",
+          "width": 465,
+          "height": 600
+        },
+        {
+          "file": "photo1-250.avif",
+          "width": 202.5,
+          "height": 247
+        },
+        {
+          "file": "photo2-250.avif",
+          "width": 202.5,
+          "height": 247
+        },
+        {
+          "file": "photo3-250.avif",
+          "width": 202.5,
+          "height": 247
+        },
+        {
+          "file": "photo4-250.avif",
+          "width": 202.5,
+          "height": 247
+        },
+        {
+          "file": "photo5-250.avif",
+          "width": 202.5,
+          "height": 247
+        },
+        {
+          "file": "photo6-250.avif",
+          "width": 202.5,
+          "height": 247
+        },
+        {
+          "file": "photo7-250.avif",
+          "width": 202.5,
+          "height": 247
+        },
+        {
+          "file": "photo8-250.avif",
+          "width": 202.5,
+          "height": 247
+        },
+        {
+          "file": "photo9-250.avif",
+          "width": 202.5,
+          "height": 247
+        },
+        {
+          "file": "photo-426.avif",
+          "width": 426,
+          "height": 840
+        },
+        {
+          "file": "logo.svg",
+          "width": 100.0291519165039,
+          "height": 43.7197265625
+        }
+      ]
+    },
+    {
+      "width": 479,
+      "scrollWidth": 464,
+      "brokenImages": [],
+      "cards": 9,
+      "clippedText": [],
+      "columns": 1,
+      "background": "url(\"http://127.0.0.1:5173/assets/figma/catalog-846.svg\")",
+      "sections": [
+        {
+          "name": "hero",
+          "y": 70,
+          "height": 600
+        },
+        {
+          "name": "about container",
+          "y": 670,
+          "height": 1036.703125
+        },
+        {
+          "name": "catalog",
+          "y": 1706.703125,
+          "height": 4171.390625
+        },
+        {
+          "name": "care container",
+          "y": 5878.09375,
+          "height": 1006.390625
+        },
+        {
+          "name": "reviews",
+          "y": 6884.484375,
+          "height": 466.53125
+        },
+        {
+          "name": "order-delivery",
+          "y": 7351.015625,
+          "height": 947.78125
+        }
+      ],
+      "images": [
+        {
+          "file": "logo1.svg",
+          "width": 79.98750305175781,
+          "height": 35.01249694824219
+        },
+        {
+          "file": "mobile360-vector1-720.avif",
+          "width": 464,
+          "height": 600
+        },
+        {
+          "file": "photo1-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo2-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo3-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo4-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo5-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo6-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo7-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo8-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo9-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo-426.avif",
+          "width": 426,
+          "height": 840
+        },
+        {
+          "file": "logo.svg",
+          "width": 100.0291519165039,
+          "height": 43.720703125
+        }
+      ]
+    },
+    {
+      "width": 360,
+      "scrollWidth": 345,
+      "brokenImages": [],
+      "cards": 9,
+      "clippedText": [],
+      "columns": 1,
+      "background": "url(\"http://127.0.0.1:5173/assets/figma/catalog-846.svg\")",
+      "sections": [
+        {
+          "name": "hero",
+          "y": 70,
+          "height": 600
+        },
+        {
+          "name": "about container",
+          "y": 670,
+          "height": 1180.703125
+        },
+        {
+          "name": "catalog",
+          "y": 1850.703125,
+          "height": 4171.390625
+        },
+        {
+          "name": "care container",
+          "y": 6022.09375,
+          "height": 1006.390625
+        },
+        {
+          "name": "reviews",
+          "y": 7028.484375,
+          "height": 466.53125
+        },
+        {
+          "name": "order-delivery",
+          "y": 7495.015625,
+          "height": 1056.171875
+        }
+      ],
+      "images": [
+        {
+          "file": "logo1.svg",
+          "width": 79.98750305175781,
+          "height": 35.01249694824219
+        },
+        {
+          "file": "mobile360-vector1-360.avif",
+          "width": 345,
+          "height": 600
+        },
+        {
+          "file": "photo1-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo2-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo3-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo4-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo5-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo6-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo7-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo8-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo9-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo-426.avif",
+          "width": 426,
+          "height": 840
+        },
+        {
+          "file": "logo.svg",
+          "width": 100.0291519165039,
+          "height": 43.720703125
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "scrollWidth": 310,
+      "brokenImages": [],
+      "cards": 9,
+      "clippedText": [],
+      "columns": 1,
+      "background": "url(\"http://127.0.0.1:5173/assets/figma/catalog-846.svg\")",
+      "sections": [
+        {
+          "name": "hero",
+          "y": 70,
+          "height": 600
+        },
+        {
+          "name": "about container",
+          "y": 670,
+          "height": 1252.703125
+        },
+        {
+          "name": "catalog",
+          "y": 1922.703125,
+          "height": 4171.390625
+        },
+        {
+          "name": "care container",
+          "y": 6094.09375,
+          "height": 1006.390625
+        },
+        {
+          "name": "reviews",
+          "y": 7100.484375,
+          "height": 466.53125
+        },
+        {
+          "name": "order-delivery",
+          "y": 7567.015625,
+          "height": 1104.171875
+        }
+      ],
+      "images": [
+        {
+          "file": "logo1.svg",
+          "width": 69.98905944824219,
+          "height": 30.63593864440918
+        },
+        {
+          "file": "mobile360-vector1-360.avif",
+          "width": 305,
+          "height": 600
+        },
+        {
+          "file": "photo1-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo2-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo3-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo4-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo5-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo6-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo7-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo8-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo9-250.avif",
+          "width": 250,
+          "height": 247
+        },
+        {
+          "file": "photo-426.avif",
+          "width": 426,
+          "height": 840
+        },
+        {
+          "file": "logo.svg",
+          "width": 100.0291519165039,
+          "height": 43.720703125
+        }
+      ]
+    }
+  ],
+  "failures": []
+}

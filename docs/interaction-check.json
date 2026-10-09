@@ -1,0 +1,14 @@
+{
+  "checks": [
+    "Selected product, initial focus, focus trap, scroll lock",
+    "Empty fields and invalid phone blocked before request",
+    "Phone normalization, product payload, unconnected endpoint and data preservation",
+    "Network failure, server error and unconfirmed response never show success",
+    "Pending state, duplicate submit prevention, confirmed success and focus return",
+    "Hero opens general form; Escape closes dialog",
+    "Inline form opens confirmation after accepted response",
+    "Reviews support arrows and horizontal swipe",
+    "Dialog stays inside viewport at five widths"
+  ],
+  "backend": "Mocked in browser; no real orders sent"
+}

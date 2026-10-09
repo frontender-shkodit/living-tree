@@ -1,0 +1,30 @@
+*, *::before, *::after { box-sizing: border-box; }
+html { scrollbar-gutter: stable; }
+.svg-icon { display: contents; }
+.icon-outline {
+  transform-box: view-box;
+  transform-origin: center;
+  animation: icon-outline-sway 6s ease-in-out infinite;
+}
+@keyframes icon-outline-sway {
+  0%, 100% { transform: rotate(-5deg); }
+  50% { transform: rotate(5deg); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .icon-outline { animation: none; }
+}
+body {
+  margin: 0;
+  color: var(--color-text);
+  background: var(--color-white);
+  font-family: var(--font-body);
+  font-size: var(--text-body);
+  line-height: var(--leading-body);
+}
+button, input, textarea { font: inherit; }
+button, a, input, textarea { -webkit-tap-highlight-color: transparent; }
+:focus-visible { outline: 3px solid #006579; outline-offset: 4px; }
+.container {
+  width: min(calc(100% - 2 * var(--container-gutter)), var(--container-width));
+  margin-inline: auto;
+}

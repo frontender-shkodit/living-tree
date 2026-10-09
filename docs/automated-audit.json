@@ -1,0 +1,242 @@
+{
+  "base": "http://127.0.0.1:4173",
+  "results": [
+    {
+      "width": 1920,
+      "state": "page",
+      "violations": [],
+      "passes": 46,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "nodes": 10
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "state": "dialog",
+      "violations": [],
+      "passes": 22,
+      "incomplete": []
+    },
+    {
+      "width": 1920,
+      "state": "validation-errors",
+      "violations": [],
+      "passes": 22,
+      "incomplete": []
+    },
+    {
+      "width": 360,
+      "state": "page",
+      "violations": [],
+      "passes": 45,
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "nodes": 9
+        }
+      ]
+    },
+    {
+      "width": 360,
+      "state": "dialog",
+      "violations": [],
+      "passes": 22,
+      "incomplete": []
+    },
+    {
+      "width": 360,
+      "state": "validation-errors",
+      "violations": [],
+      "passes": 22,
+      "incomplete": []
+    }
+  ],
+  "resources": [
+    {
+      "url": "index-Udz395hE.js",
+      "bytes": 357913,
+      "duration": 4.299999952316284
+    },
+    {
+      "url": "index-5JXjbMXU.css",
+      "bytes": 0,
+      "duration": 3.700000047683716
+    },
+    {
+      "url": "logo1.svg",
+      "bytes": 0,
+      "duration": 5.1000001430511475
+    },
+    {
+      "url": "logo.svg",
+      "bytes": 0,
+      "duration": 8
+    },
+    {
+      "url": "mobile360-vector1-360.avif",
+      "bytes": 0,
+      "duration": 6.299999952316284
+    },
+    {
+      "url": "photo1-250.avif",
+      "bytes": 0,
+      "duration": 3.5
+    },
+    {
+      "url": "photo2-250.avif",
+      "bytes": 0,
+      "duration": 4.299999952316284
+    },
+    {
+      "url": "photo3-250.avif",
+      "bytes": 0,
+      "duration": 5
+    },
+    {
+      "url": "photo4-250.avif",
+      "bytes": 0,
+      "duration": 5.8999998569488525
+    },
+    {
+      "url": "photo5-250.avif",
+      "bytes": 0,
+      "duration": 7
+    },
+    {
+      "url": "photo6-250.avif",
+      "bytes": 0,
+      "duration": 7.799999952316284
+    },
+    {
+      "url": "photo7-250.avif",
+      "bytes": 0,
+      "duration": 8.400000095367432
+    },
+    {
+      "url": "photo8-250.avif",
+      "bytes": 0,
+      "duration": 9.400000095367432
+    },
+    {
+      "url": "photo9-250.avif",
+      "bytes": 0,
+      "duration": 10.400000095367432
+    },
+    {
+      "url": "open-sans-cyrillic-300-normal-CSZZSjYT.woff2",
+      "bytes": 11076,
+      "duration": 0
+    },
+    {
+      "url": "open-sans-cyrillic-400-normal-DvjyhnTk.woff2",
+      "bytes": 11108,
+      "duration": 0
+    },
+    {
+      "url": "open-sans-cyrillic-500-normal-C0pJK5UH.woff2",
+      "bytes": 11076,
+      "duration": 0
+    },
+    {
+      "url": "open-sans-latin-300-normal-D5gIFPXQ.woff2",
+      "bytes": 18660,
+      "duration": 0
+    },
+    {
+      "url": "open-sans-latin-400-normal-Bk63H6sG.woff2",
+      "bytes": 18640,
+      "duration": 0
+    },
+    {
+      "url": "open-sans-latin-500-normal-C0rntwkW.woff2",
+      "bytes": 18728,
+      "duration": 0
+    },
+    {
+      "url": "sunday.otf",
+      "bytes": 20656,
+      "duration": 0
+    },
+    {
+      "url": "catalog-846.svg",
+      "bytes": 289,
+      "duration": 0
+    }
+  ],
+  "seo": {
+    "title": "Деревья из цетрарии ручной работы — Сувенир из Крыма",
+    "description": "Деревья из цетрарии ручной работы из Крыма. Выберите размер и количество крон, узнайте цены, условия заказа и доставки по России.",
+    "canonical": null,
+    "og": "Деревья из цетрарии — Сувенир из Крыма",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "живое дерево с кроной из цетрарии"
+      },
+      {
+        "tag": "H2",
+        "text": "О нас"
+      },
+      {
+        "tag": "H2",
+        "text": "Наши работы"
+      },
+      {
+        "tag": "H3",
+        "text": "От 10–12 см (мини-крона)"
+      },
+      {
+        "tag": "H3",
+        "text": "От 12–15 см (1 крона)"
+      },
+      {
+        "tag": "H3",
+        "text": "От 15–20 см (2 кроны)"
+      },
+      {
+        "tag": "H3",
+        "text": "От 15–20 см (3 кроны)"
+      },
+      {
+        "tag": "H3",
+        "text": "От 20–24 см (2 кроны)"
+      },
+      {
+        "tag": "H3",
+        "text": "От 20–24 см (3 кроны)"
+      },
+      {
+        "tag": "H3",
+        "text": "От 25–29 см (3 кроны)"
+      },
+      {
+        "tag": "H3",
+        "text": "От 25–29 см (4 кроны)"
+      },
+      {
+        "tag": "H3",
+        "text": "От 34 см (от 5 крон)"
+      },
+      {
+        "tag": "H2",
+        "text": "Уход"
+      },
+      {
+        "tag": "H2",
+        "text": "Отзывы"
+      },
+      {
+        "tag": "H2",
+        "text": "Для заказа заполните форму"
+      },
+      {
+        "tag": "H2",
+        "text": "Оплата и Доставка"
+      }
+    ],
+    "literalEscape": false
+  }
+}

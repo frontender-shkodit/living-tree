@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'Sunday';
+  src: url('/assets/fonts/sunday.otf') format('opentype');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+:root {
+  --color-primary: #007b2a;
+  --color-primary-hover: #006c24;
+  --color-primary-active: #185a0d;
+  --color-secondary: #002200;
+  --color-text: #070707;
+  --color-white: #ffffff;
+  --color-muted: #666666;
+  --color-disabled: #cccccc;
+  --color-surface: #efefef;
+  --color-accent-blue: #47d5f5;
+  --color-accent-coral: #b83b22;
+  --color-rating: #f9ed37;
+  --font-body: 'Open Sans', sans-serif;
+  --font-display: 'Sunday', serif;
+  --text-body: 1rem;
+  --text-small: 0.875rem;
+  --text-price: 1.25rem;
+  --text-section: 1.75rem;
+  --text-hero: 3.75rem;
+  --text-subtitle: 2rem;
+  --leading-body: 1.5;
+  --leading-heading: 1.3;
+  --space-1: 5px;
+  --space-2: 10px;
+  --space-3: 20px;
+  --space-4: 30px;
+  --space-5: 40px;
+  --space-6: 60px;
+  --space-7: 120px;
+  --container-width: 1216px;
+  --container-gutter: 20px;
+  --radius-button: 50px;
+  --radius-dialog: 50px;
+}
+
+@media (width < 1440px) {
+  :root { --text-hero: 3.125rem; --text-subtitle: 1.75rem; }
+}
+@media (width < 768px) {
+  :root { --text-hero: 2.5rem; --text-subtitle: 1.5rem; }
+}
