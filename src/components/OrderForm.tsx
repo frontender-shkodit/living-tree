@@ -1,4 +1,4 @@
-﻿import { useEffect, useId, useRef, useState, type FormEvent } from 'react';
+import { useEffect, useId, useRef, useState, type FormEvent } from 'react';
 
 export interface OrderSelection { id: string; title: string }
 interface Props { selected?: OrderSelection; onSuccess: () => void }
@@ -45,7 +45,7 @@ export function OrderForm({ selected, onSuccess }: Props) {
         method: 'POST', headers: { 'Content-Type': 'application/json' }, signal: controller.current.signal,
         body: JSON.stringify({ name, phone, comment: String(data.get('comment') || '').trim(), product: selected ?? null }),
       });
-      if (response.status === 404) throw new Error('Онлайн-отправка пока не подключена. Позвоните по номеру +7 989 522-67-79.');
+      if (response.status === 404) throw new Error('Онлайн-отправка пока не подключена. Позвоните по номеру +7 999 999-99-99.');
       if (!response.ok) throw new Error('Не удалось отправить заказ. Попробуйте ещё раз или позвоните нам.');
       let result: unknown;
       try { result = await response.json(); }
