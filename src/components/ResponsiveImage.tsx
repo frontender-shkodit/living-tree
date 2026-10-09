@@ -1,6 +1,6 @@
 import type { ImgHTMLAttributes } from 'react';
 import { assets } from '../data/assets';
-const root = '/assets/optimized/';
+const root = import.meta.env.BASE_URL + 'assets/optimized/';
 function sources(src: string, widths: number[], format: string) {
   const base = src.split('/').pop()!.replace('.png', '');
   return widths.map(width => `${root}${base}-${width}.${format} ${width}w`).join(', ');

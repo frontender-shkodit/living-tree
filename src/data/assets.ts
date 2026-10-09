@@ -1,4 +1,4 @@
-﻿const root = '/assets/figma/';
+const root = import.meta.env.BASE_URL + 'assets/figma/';
 
 export const assets = {
   hero: {
@@ -8,7 +8,7 @@ export const assets = {
     mobile480: root + 'mobile480-vector1.png',
     mobile360: root + 'mobile360-vector1.png',
   },
-  logo: { header: '/assets/optimized/logo1.svg', footer: '/assets/optimized/logo.svg' },
+  logo: { header: import.meta.env.BASE_URL + 'assets/optimized/logo1.svg', footer: import.meta.env.BASE_URL + 'assets/optimized/logo.svg' },
   moss: root + 'photo.png',
   catalog: {
     desktop: root + 'catalog-1920.svg', compact: root + 'vector.svg',

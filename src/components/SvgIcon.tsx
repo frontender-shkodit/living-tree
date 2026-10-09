@@ -19,7 +19,10 @@ const animatedOutlineIcons = new Set([
 /** Trusted local Figma SVGs; retain original geometry and scope IDs per instance. */
 export function SvgIcon({ src, label }: { src: string; label?: string }) {
   const instance = useId().replace(/[^a-zA-Z0-9_-]/g, '');
-  const source = sources['/public' + src];
+  const localPath = src.startsWith(import.meta.env.BASE_URL)
+    ? '/' + src.slice(import.meta.env.BASE_URL.length)
+    : src;
+  const source = sources['/public' + localPath];
   if (!source) throw new Error(`Unknown local SVG icon: ${src}`);
   let markup = source;
   if (animatedOutlineIcons.has(src.split('/').pop() ?? '')) {

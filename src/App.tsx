@@ -15,8 +15,8 @@ const features = [
 ];
 const care = ['Опрыскивать 1 раз в неделю, но не реже раза в 6 месяцев', 'Использовать чистую воду', 'Не допускать попадания прямых солнечных лучей'];
 const reviews = [
-  { name: 'Алексей, Москва', initial: 'А', avatar: '/assets/figma/ellipse3.svg', stars: 5, text: 'Все быстро отправили, упаковано хорошо. Дерево супер, на подарок в самый раз, очень необычно.' },
-  { name: 'Лена, Ростов-на-Дону', initial: 'Л', avatar: '/assets/figma/ellipse4.svg', stars: 4, text: 'Получила свое дерево! Спасибо за такую красоту. Теперь будет радовать наш дом.' },
+  { name: 'Алексей, Москва', initial: 'А', avatar: import.meta.env.BASE_URL + 'assets/figma/ellipse3.svg', stars: 5, text: 'Все быстро отправили, упаковано хорошо. Дерево супер, на подарок в самый раз, очень необычно.' },
+  { name: 'Лена, Ростов-на-Дону', initial: 'Л', avatar: import.meta.env.BASE_URL + 'assets/figma/ellipse4.svg', stars: 4, text: 'Получила свое дерево! Спасибо за такую красоту. Теперь будет радовать наш дом.' },
 ];
 const navigation = [['#works', 'Наши работы'], ['#delivery', 'Доставка'], ['#contacts', 'Контакты']] as const;
 
